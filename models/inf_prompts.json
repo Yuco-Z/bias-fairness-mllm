@@ -1,0 +1,8 @@
+{
+    "summary": "Briefly explain what steps you'll take to solve the problem in 1 to 3 sentences: ",
+    "caption": "Detailedly describe the contents of the image in 1 to 3 sentences: ",
+    "step": "Outline a step-by-step thought process to solve the problem: ",
+    "answer": "Outline a step-by-step thought process to solve the problem and give the final answer:",
+    "scale_at_infer": "First detailedly describe the image, then outline a step-by-step thought process to solve the problem and give the final answer:",
+    "scale_at_infer_prm": "First detailedly describe the image, then answer the question"
+}
